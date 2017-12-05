@@ -5,6 +5,8 @@
  **一周七天，每天读2篇文章，每周尽量扩充3篇好文**
 
  ## 文章指引
- [浏览器相关]('./artical/浏览器原理相关.md')
- [event-loop]('./artical/event-loop.md')
+ [浏览器相关](https://github.com/timeTravelCYN/front-end-tutorial/blob/master/artical/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8E%9F%E7%90%86%E7%9B%B8%E5%85%B3.md)
+ 
+ 
+ [event-loop](https://github.com/timeTravelCYN/front-end-tutorial/blob/master/artical/event-loop.md)
  
