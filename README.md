@@ -10,3 +10,9 @@
  
  [event-loop](https://github.com/timeTravelCYN/front-end-tutorial/blob/master/artical/event-loop.md)
  
+ ## 优秀网站
+ 每天一点 js 小知识
+ [JS Tips](http://www.jstips.co/zh_CN/)
+ 
+ ## 优质博客
+ 
